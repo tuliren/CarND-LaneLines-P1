@@ -16,13 +16,14 @@ The goals / steps of this project are the following:
   Solid White Line | Solid Yellow Line | Challenge
   ---------------- | ----------------- | ---------
   ![](test_videos_output/solidWhiteRight.gif) | ![](test_videos_output/solidYellowLeft.gif) | ![](test_videos_output/challenge.gif)
+  [Video](https://github.com/tuliren/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4) | [Video](https://github.com/tuliren/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.mp4) | [Video](https://github.com/tuliren/CarND-LaneLines-P1/blob/master/test_videos_output/challenge.mp4)
 
 ## Implementation
 [Notebook](P1.ipynb)
 
 ## Reflection
 
-### 1. Describe your pipeline
+### Lane detection pipeline
 
 My pipeline consisted of the following steps:
 - Convert the image to gray scale.
